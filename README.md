@@ -40,7 +40,7 @@ If you want to apply MCTS for your own game, its state implementation should der
 
 ### Example Game Play
 
-Bạn có thể tạo file mới .py rồi copy đoạn code dưới đây vào file đó, sau đó run code và xem kết quả:
+Bạn có thể tạo file mới .py rồi copy đoạn code dưới đây vào file đó, sau đó run code và xem kết quả (hoặc bạn cũng có thể chạy luôn file 'testgame.py'):
 
 ```python
 import numpy as np
