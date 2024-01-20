@@ -28,6 +28,6 @@ setup(
         "Operating System :: OS Independent",
     ],
     license='MIT',
-    url='https://github.com/int8/monte-carlo-tree-search',
+    url='https://github.com/BToopS2/monte-carlo-tree-search',
     version='0.1.1'
 )
