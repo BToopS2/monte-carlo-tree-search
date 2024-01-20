@@ -39,6 +39,9 @@ If you want to apply MCTS for your own game, its state implementation should der
 (lookup `mctspy.games.examples.tictactoe.TicTacToeGameState` for inspiration)
 
 ### Example Game Play
+
+Bạn có thể tạo file mới .py rồi copy đoạn code dưới đây vào file đó, sau đó run code và xem kết quả:
+
 ```python
 import numpy as np
 from mctspy.tree.nodes import TwoPlayersGameMonteCarloTreeSearchNode
